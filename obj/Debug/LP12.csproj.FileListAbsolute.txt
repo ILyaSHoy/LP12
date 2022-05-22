@@ -1,0 +1,10 @@
+C:\Users\ILyaSHoy\source\repos\LP12\bin\Debug\LP12.exe.config
+C:\Users\ILyaSHoy\source\repos\LP12\bin\Debug\LP12.exe
+C:\Users\ILyaSHoy\source\repos\LP12\bin\Debug\LP12.pdb
+C:\Users\ILyaSHoy\source\repos\LP12\obj\Debug\LP12.csproj.AssemblyReference.cache
+C:\Users\ILyaSHoy\source\repos\LP12\obj\Debug\LP12.Form1.resources
+C:\Users\ILyaSHoy\source\repos\LP12\obj\Debug\LP12.Properties.Resources.resources
+C:\Users\ILyaSHoy\source\repos\LP12\obj\Debug\LP12.csproj.GenerateResource.cache
+C:\Users\ILyaSHoy\source\repos\LP12\obj\Debug\LP12.csproj.CoreCompileInputs.cache
+C:\Users\ILyaSHoy\source\repos\LP12\obj\Debug\LP12.exe
+C:\Users\ILyaSHoy\source\repos\LP12\obj\Debug\LP12.pdb
